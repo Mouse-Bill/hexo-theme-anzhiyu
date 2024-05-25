@@ -263,6 +263,7 @@
   border: none;
   overflow: hidden;
   min-width: 575px;
+  border-radius: 6px
 }
 
 #console .console-card.history .item-headline {
@@ -280,7 +281,7 @@
 }
 
 #console .console-card.history .card-archive-list .card-archive-list-link {
-  border-radius: 8px;
+  border-radius: 10px;
   margin: 4px;
   display: flex;
   flex-direction: column;
